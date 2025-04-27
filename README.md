@@ -4,6 +4,7 @@ Welcome to **LIGMA OPTIMIZER** — free to use Optimizer App, no premiums,keys (
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
 
 (No forced installs — YOU decide.) 
+<sub>the app is run as Administrator? Dont worry its not a virus, it just used only to create restore point </sub></sup>
 
 If you're a gamer, this can massively boost your FPS!
 
