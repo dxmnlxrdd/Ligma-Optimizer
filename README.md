@@ -43,12 +43,13 @@ Before using tweaks, create a System Restore Point.
 
 By continuing to use this software, you agree that you accept full responsibility
 for anything that happens to your system.
-##Credits,Copyrights
-                 Dxmnlxrd(UI,Designer,Coding literally everything)
-                 © 2025 Dxmnlxrd
-                 © Ligma Optimizer
-                 © LigmaStuff
-                 Licensed under the Apache-2.0 License
+
+## Credits, Copyrights
+Dxmnlxrd (everything)
+© 2025 Dxmnlxrd
+© Ligma Optimizer
+© LigmaStuff
+Licensed under the Apache-2.0 License
 
 thank you for using Ligma Optimizer :)
 One Of LigmaStuff Stuff's
