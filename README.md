@@ -1,4 +1,4 @@
-Ligma Optimizer
+## Ligma Optimizer
 
 Welcome to **LIGMA OPTIMIZER** — free to use, no premiums,keys (literally an open-source maybe) and built for gamers, tweakers, and anyone who wants a smoother, faster PC.
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
