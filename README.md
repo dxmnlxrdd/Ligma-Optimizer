@@ -28,7 +28,7 @@ Some tweaks MAY:
 - BREAK drivers or cause crashes
 - MESS UP updates, recovery, or core features
 
-**USE AT YOUR OWN RISK.**
+## USE AT YOUR OWN RISK.
 Even though we have verified all tweaks, not all tweaks may be compatible with your PC. 
 We are **NOT RESPONSIBLE** for any damage, loss, or chaos caused by this tool.
 
@@ -38,16 +38,15 @@ Before using tweaks, create a System Restore Point.
 
 (And if you didn’t make a restore point? That’s on you. Just reset your PC.)
 
-========================================================================
-**DISCLAIMER**
+
+## DISCLAIMER
 
 By continuing to use this software, you agree that you accept full responsibility
 for anything that happens to your system.
 
-========================================================================
                  © 2025 Dxmnlxrd
                  © Ligma Optimizer
                  © LigmaStuff
                  Licensed under the Apache-2.0 License
-========================================================================
+                 
 thank you for using Ligma Optimizer :)
