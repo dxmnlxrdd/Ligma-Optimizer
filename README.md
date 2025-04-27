@@ -1,6 +1,6 @@
 # Ligma Optimizer
 
-Welcome to **LIGMA OPTIMIZER** — free to use, no premiums,keys (literally an open-source maybe) and built for gamers, tweakers, and anyone who wants a smoother, faster PC.
+Welcome to **LIGMA OPTIMIZER** — free to use Optimizer App, no premiums,keys (literally an open-source maybe) and built for gamers, tweakers, and anyone who wants a smoother, faster PC.
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
 (No forced installs — YOU decide.) 
 
@@ -20,7 +20,7 @@ WHAT IT DOES:
 - Applies deep system-level tweaks (safe-ish)
 - Improves memory handling and multitasking speed
 
-⚠️ LIGMA OPTIMIZER directly changes system settings.
+**⚠️ LIGMA OPTIMIZER directly changes system settings.**
 
 Some tweaks MAY:
 - CORRUPT your system
@@ -43,10 +43,12 @@ Before using tweaks, create a System Restore Point.
 
 By continuing to use this software, you agree that you accept full responsibility
 for anything that happens to your system.
-
+##Credits,Copyrights
+                 Dxmnlxrd(UI,Designer,Coding literally everything)
                  © 2025 Dxmnlxrd
                  © Ligma Optimizer
                  © LigmaStuff
                  Licensed under the Apache-2.0 License
-                 
+
 thank you for using Ligma Optimizer :)
+One Of LigmaStuff Stuff's
