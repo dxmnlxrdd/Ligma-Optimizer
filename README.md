@@ -1,17 +1,15 @@
-========================================================================
-                 LIGMA OPTIMIZER by damlordsoskibidijubjubrakmakmak
-========================================================================
+Ligma Optimizer
 
-Welcome to **LIGMA OPTIMIZER** — built for gamers, tweakers, and anyone who wants a smoother, faster PC.
+Welcome to **LIGMA OPTIMIZER** — free to use, no premiums,keys (literally an open-source maybe) and built for gamers, tweakers, and anyone who wants a smoother, faster PC.
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
-(No forced installs — YOU decide.)
+(No forced installs — YOU decide.) 
 
 If you're a gamer, this can massively boost your FPS!
 
 BUILT FOR:
 - Gamers craving more FPS
-- Low-end or aging systems
-- Streamers, multitaskers, and performance enthusiasts
+- Low-end or aging systems,or at its life pc lmao
+- Streamers(maybe), multitaskers, and performance enthusiasts
 
 WHAT IT DOES:
 - Boosts in-game FPS and system responsiveness
@@ -31,16 +29,17 @@ Some tweaks MAY:
 - MESS UP updates, recovery, or core features
 
 **USE AT YOUR OWN RISK.**
+Even though we have verified all tweaks, not all tweaks may be compatible with your PC. 
 We are **NOT RESPONSIBLE** for any damage, loss, or chaos caused by this tool.
 
-**STRONGLY RECOMMENDED:**
+**STRONGLY RECOMMENDED:** or **PLEASE**
 Before using tweaks, create a System Restore Point.
-(There's even a button for it inside the app. No excuses.)
+(There's Notification after opening the app. No excuses.)
 
 (And if you didn’t make a restore point? That’s on you. Just reset your PC.)
 
 ========================================================================
-DISCLAIMER
+**DISCLAIMER**
 
 By continuing to use this software, you agree that you accept full responsibility
 for anything that happens to your system.
@@ -51,3 +50,4 @@ for anything that happens to your system.
                  © LigmaStuff
                  Licensed under the Apache-2.0 License
 ========================================================================
+thank you for using Ligma Optimizer :)
