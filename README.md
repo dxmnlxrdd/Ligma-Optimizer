@@ -2,6 +2,7 @@
 
 Welcome to **LIGMA OPTIMIZER** — free to use Optimizer App, no premiums,keys (literally an open-source maybe) and built for gamers, tweakers, and anyone who wants a smoother, faster PC.
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
+
 (No forced installs — YOU decide.) 
 
 If you're a gamer, this can massively boost your FPS!
