@@ -35,7 +35,7 @@ Some tweaks MAY:
 Even though we have verified all tweaks, not all tweaks may be compatible with your PC. 
 We are **NOT RESPONSIBLE** for any damage, loss, or chaos caused by this tool.
 
-**STRONGLY RECOMMENDED:** or **PLEASE**
+**STRONGLY RECOMMENDED:** or **PLEASE,**
 Before using tweaks, create a System Restore Point.
 (There's Notification after opening the app. No excuses.)
 
