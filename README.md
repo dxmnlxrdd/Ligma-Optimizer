@@ -53,4 +53,5 @@ Dxmnlxrd (everything)
 Licensed under the Apache-2.0 License
 
 thank you for using Ligma Optimizer :)
-One Of LigmaStuff Stuff's
+
+(One Of LigmaStuff Stuff's)
