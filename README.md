@@ -1,4 +1,4 @@
-# Ligma Optimizer
+# Ligma Optimizer (W.I.P)
 
 Welcome to **LIGMA OPTIMIZER** — free to use Optimizer App, no premiums,keys (literally an open-source maybe) and built for gamers, tweakers, and anyone who wants a smoother, faster PC.
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
@@ -57,3 +57,4 @@ Licensed under the Apache-2.0 License
 thank you for using Ligma Optimizer :)
 
 (One Of LigmaStuff Stuff's)
+(THIS OPTIMIZER USE .REG , .BAT FILES. no need to worry it wont break ur pc up)
