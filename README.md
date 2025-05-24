@@ -56,3 +56,15 @@ thank you for using Ligma Optimizer :)
 
 (One Of LigmaStuff Stuff's)
 (THIS OPTIMIZER USE .REG , .BAT FILES. no need to worry it wont break ur pc up)
+
+
+## Donate & Support
+If you want to support my little project you can donate!
+- Litecoin (LTC): LQBxbbWfFEUg6LByn1ZEErq83R7ZXZ9SsK
+- Etherium (ETH): 0xb621981bca33bEBA1DaA896e8483E1120DfEED64
+- Bitcoin (BTC): bc1qvwua7nks7h79ld4h8pfu0c0fu5vf7chrhrn8s4
+- Dogecoin (DOGE): DR2oJy4aYVaju4bhpBJHb5mW9r4zoUPMw5
+
+
+
+
