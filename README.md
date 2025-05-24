@@ -5,7 +5,8 @@ Packed with FREE apps, optimizers, and tweaks you can choose to install!
 
 (No forced installs — YOU decide.) 
 
-<sub>the app is run as Administrator? Dont worry its not a virus, it just used only to create restore point👍</sub></sup>
+##LITTLE WARNING (not that massive)
+AFTER VERSION 1.0.2(not released) has removed restore point (will use a .bat or other apps from me instead)
 
 If you're a gamer, this can massively boost your FPS!
 
@@ -37,8 +38,6 @@ We are **NOT RESPONSIBLE** for any damage, loss, or chaos caused by this tool.
 
 **STRONGLY RECOMMENDED:** or **PLEASE,**
 Before using tweaks, create a System Restore Point.
-(There's Notification after opening the app. No excuses.)
-
 (And if you didn’t make a restore point? That’s on you. Just reset your PC.)
 
 
