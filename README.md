@@ -4,10 +4,6 @@ Welcome to **LIGMA OPTIMIZER** — free to use Optimizer App, no premiums,keys (
 Packed with FREE apps, optimizers, and tweaks you can choose to install!
 
 (No forced installs — YOU decide.) 
-
-### LITTLE WARNING (not that massive)
-AFTER VERSION 1.0.2(not released) has removed restore point (will use a .bat or other apps from me instead)
-
 If you're a gamer, this can massively boost your FPS!
 
 BUILT FOR:
@@ -35,6 +31,9 @@ Some tweaks MAY:
 ## USE AT YOUR OWN RISK.
 Even though we have verified all tweaks, not all tweaks may be compatible with your PC. 
 We are **NOT RESPONSIBLE** for any damage, loss, or chaos caused by this tool.
+
+### LITTLE WARNING (not that massive)
+AFTER VERSION 1.0.2(not released) has removed restore point (will use a .bat or other apps from me instead)
 
 **STRONGLY RECOMMENDED:** or **PLEASE,**
 Before using tweaks, create a System Restore Point.
