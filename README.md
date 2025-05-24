@@ -5,7 +5,7 @@ Packed with FREE apps, optimizers, and tweaks you can choose to install!
 
 (No forced installs — YOU decide.) 
 
-##LITTLE WARNING (not that massive)
+### LITTLE WARNING (not that massive)
 AFTER VERSION 1.0.2(not released) has removed restore point (will use a .bat or other apps from me instead)
 
 If you're a gamer, this can massively boost your FPS!
