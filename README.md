@@ -33,7 +33,7 @@ Even though we have verified all tweaks, not all tweaks may be compatible with y
 We are **NOT RESPONSIBLE** for any damage, loss, or chaos caused by this tool.
 
 ### LITTLE WARNING (not that massive)
-AFTER VERSION 1.0.2(not released) has removed restore point (will use a .bat or other apps from me instead)
+AFTER VERSION 1.0.2 has removed restore point message (will use a .bat or other apps from me instead)
 
 **STRONGLY RECOMMENDED:** or **PLEASE,**
 Before using tweaks, create a System Restore Point.
