@@ -57,6 +57,10 @@ thank you for using Ligma Optimizer :)
 (One Of LigmaStuff Stuff's)
 (THIS OPTIMIZER USE .REG , .BAT FILES. no need to worry it wont break ur pc up)
 
+### Status
+Updates delayed, busy with school and stuffs irl
+expected alpha 1.0.3 :unknown but 2025
+expected beta release:September-November 2025 or in 2026
 
 ## Donate & Support
 If you want to support my little project you can donate!
