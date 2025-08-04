@@ -60,9 +60,11 @@ thank you for using Ligma Optimizer :)
 ### Status
 Updates delayed, busy with school and stuffs irl
 
-expected alpha 1.0.3 :unknown but 2025
+expected alpha 1.0.3 :unknown but in 2025 (15%/100%)
 
-expected beta release:September-November 2025 or in 2026
+expected beta release:September-November 2025 or in early 2026
+
+or maybe discountinue (not rlly lol jst maybe it take long)
 
 ## Donate & Support
 If you want to support my little project you can donate!
